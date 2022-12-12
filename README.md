@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanklap Sharma</h1>
-<h3 align="center">A passionate frontend data analyst from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 <img align="right"alt="coding"width="400"src="https://dasceq.com/wp-content/uploads/2022/04/business-analytics.gif">
 
